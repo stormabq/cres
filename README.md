@@ -11,10 +11,14 @@ n craiges.js -b       [build]
 cd ruby
 ```
 
-bring up es
+* bring up es
+
+```
 bash installplugin
-bring down es
-bring up es
+```
+
+* bring down es
+* bring up es
 
 ```
 bash startriver
