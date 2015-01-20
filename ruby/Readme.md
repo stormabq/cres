@@ -11,4 +11,3 @@ bash startriver
 node craiges.js -e
 
 Bring up Kibana and go to this URL:
-http://localhost:3000/src/index.html#/dashboard/file/guided.json
