@@ -1,0 +1,10 @@
+
+2012 Jul 13 00baa  separate telecommute program called craigtelecommute
+                   the URL for how to grab data was modified to match
+                   the URL syntax for making a telecommute query
+2012 Jun 08 00aqc  telecommute code is now rock solid
+2012 Jun 06 00ai   htmlfilters are now working correctly
+2012 May 31 00ae   code is up and running with live data
+
+The code does work if you have an empty array for either descriptiontags or titletags.
+"options":{"city":"pittsburgh","descriptiontags":[],"titletags":["cfo"]}

@@ -1,0 +1,29 @@
+{
+    "name": "redfork",
+    "version": "0.0.1",
+    "private": true,
+    "engines": {
+        "node": "0.4.x"
+    },
+    "dependencies": {
+        "cli-table": "latest",
+        "colors": "latest",
+        "express": ">=2.4.3",
+        "express-messages": "*",
+	"gleak": "*",
+        "hooks": "latest",
+        "htmlparser": "*",
+        "jade": "latest",
+        "mocha": "*",
+        "mongodb": "latest",
+        "mongoose": "latest",
+        "mongode": ">=0.0.1",
+        "natural": "*",
+        "optimist": "latest",
+        "redis": ">=0.6.5",
+        "reds": "latest",
+        "request": "*",
+        "should": "0.2.1",
+        "underscore": "*"
+    }
+}

@@ -1,0 +1,1 @@
+/miaes/elasticsearch/bin/plugin -install com.sksamuel.elasticsearch/elasticsearch-river-redis/1.1.0

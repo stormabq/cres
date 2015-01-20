@@ -1,0 +1,11 @@
+
+curl -XPUT http://localhost:9200/_river/redisriver/_meta -d '
+{
+ "type" : "redis",
+  "redis" : {
+  "json" : "true",
+  "channels": "action"
+  },
+  "index": {"name": "redis-index" }
+}
+';
