@@ -19,4 +19,7 @@ npm install -D load-grunt-config
 ```
 
 And finally to bring up Kibana:
+
+```
 grunt dev
+```
