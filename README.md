@@ -26,7 +26,16 @@ cd ./../run
 node craiges.js -e
 ```
 
-Bring up Kibana and go to this URL:
+Bring up Kibana by going to the kibana directory and enter:
+
+```
+grunt dev
+```
+
+Go to this
+[URL]
+(http://localhost:8000).
+
 
 Uncheck the box *index contains time-based events*
 
