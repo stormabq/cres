@@ -11,7 +11,11 @@ n craiges.js -b       [build]
 cd ruby
 ```
 
-* bring up es
+Bring up Elastic by going to the elastic directory and enter
+
+```
+./bin/elasticsearch
+```
 
 ```
 bash installplugin
@@ -29,12 +33,12 @@ node craiges.js -e
 Bring up Kibana by going to the kibana directory and enter:
 
 ```
-grunt dev
+./bin/kibana
 ```
 
 Go to this
 [URL]
-(http://localhost:8000).
+(http://localhost:5601).
 
 
 Uncheck the box *index contains time-based events*
