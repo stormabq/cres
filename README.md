@@ -48,3 +48,5 @@ And enter in the box index name or pattern
 redis-index
 
 and then hit the **Create** button
+
+Get out of that page in your browser and bring it back up.
