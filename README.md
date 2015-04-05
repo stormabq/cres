@@ -6,9 +6,8 @@ Start up Redis
 Run the following command:
 
 ```
-cd run
+cd cres/run
 n craiges.js -b       [build]
-cd ruby
 ```
 
 Bring up Elastic by going to the elastic directory and enter
@@ -18,6 +17,7 @@ Bring up Elastic by going to the elastic directory and enter
 ```
 
 ```
+cd cres/ruby
 bash installplugin
 ```
 
